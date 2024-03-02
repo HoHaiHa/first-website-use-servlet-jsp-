@@ -1,0 +1,10 @@
+/* @charset "UTF-8";
+header{
+	display:flex;
+	justify-content:center;
+}
+
+.navbar{
+	width:1200px;
+}
+
